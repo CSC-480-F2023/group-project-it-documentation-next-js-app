@@ -1,1 +1,24 @@
 # group-project-it-documentation-next-js-app
+
+country roads
+          🤚
+      😣/
+     _/|| 
+    _/¯  ¯\_
+
+take me home
+👋 
+    \ 😩
+        || \_
+    _/¯  ¯\_
+
+to the place 
+          🤚
+      😳/
+     _/|| 
+    _/¯  ¯\_
+
+I BELOOOONG 
+        😭
+   👊/||\_ 
+    _/¯   ¯\_
