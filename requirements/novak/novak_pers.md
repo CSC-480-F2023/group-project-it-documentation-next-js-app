@@ -1,6 +1,4 @@
-# Stakeholders
-
-### Personas:
+# Personas:
 
 1. **System Administrator - Sam:**
    - **Background:**
