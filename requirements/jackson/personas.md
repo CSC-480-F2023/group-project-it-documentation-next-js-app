@@ -1,5 +1,6 @@
 ============================================================================================
 Persona 1: Tech-Savvy Tim
+
 Background: Tim is a senior IT technician with over 8 years of experience. He's well-versed in various operating systems, software, and troubleshooting techniques. Tim is often on the move, handling critical issues and providing support to multiple teams within the organization.
 
 Goals:
